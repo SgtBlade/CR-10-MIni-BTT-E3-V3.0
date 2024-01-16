@@ -22,5 +22,5 @@
 
 ##Todos:
 - [ ] Check if Chassisfans work
-- [ ] Check if Parts cooling fan works
-- [ ] Get PWM laser to work
+- [x] Check if Parts cooling fan works
+- [x] Get PWM laser to work
