@@ -18,7 +18,7 @@
 ##Links:
 - [Hardware info](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
 - [Configurations](https://github.com/MarlinFirmware/Configurations)
-- [Marlin] (https://github.com/MarlinFirmware)
+- [Marlin](https://github.com/MarlinFirmware)
 
 ##Todos:
 - [ ] Check if Chassisfans work
